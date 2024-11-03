@@ -30,7 +30,7 @@
                 <input type="date" name="date" placeholder="Your birthday" required><br />
                 <input type="tel" name="tel" id="tel-get" pattern="[0-9]{3}-[0-9]{3}-[0-9]{4}" placeholder="Your phone" required><br/>
                 <input type="email" name="email" pattern="[a-zA-Z]{3,}@[a-zA-Z]{3,}\.[a-zA-Z]{2,}" placeholder="Ваш email" required><br/>
-                <input type="password" name="pass" id="" require><br/>
+                <input type="password" name="pass" id="" placeholder="Your password" require><br/>
                 <input type="submit" value="Send" />
             </form>
         </section>
@@ -42,7 +42,7 @@
                 <input type="date" name="date" required><br />
                 <input type="tel" name="tel" id="tel-post" pattern="[0-9]{3}-[0-9]{3}-[0-9]{4}" placeholder="Your phone" required><br/>
                 <input type="email" name="email" pattern="[a-zA-Z]{3,}@[a-zA-Z]{3,}\.[a-zA-Z]{2,}" placeholder="Ваш email" required><br/>
-                <input type="password" name="pass" id="" require><br/>
+                <input type="password" name="pass" id="" placeholder="Your password" require><br/>
                 <input type="submit" value="Send" />
             </form>
         </section>
